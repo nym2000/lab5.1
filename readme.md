@@ -1,4 +1,5 @@
 Reflection Questions
+
 Q. How did you dynamically create and append new elements to the DOM?
 Ans. I used document.createElement('li') to create a new list and added the items using innerHTML to include the name, price, quantity and the remove button, and was then added to the cart via appendChild(li).
 
